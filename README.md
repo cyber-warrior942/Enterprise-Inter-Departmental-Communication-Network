@@ -1,5 +1,9 @@
 # Enterprise-Inter-Departmental-Communication-Network
 This project designs and simulates a multi-floor enterprise network in Cisco Packet Tracer, featuring VLAN segmentation, inter-VLAN routing, and a core infrastructure to ensure secure, scalable, and seamless connectivity across departments while optimizing resource utilization.
+
+![image](https://github.com/user-attachments/assets/cf431ec8-fa03-4dad-97db-79bf17c4c93c)
+
+
 # Key Features:
 **VLAN-Based Segmentation:** Each department is assigned a unique VLAN to isolate and secure traffic, improving performance and manageability.
 
